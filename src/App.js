@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        <img src={`${process.env.PUBLIC_URL}/logo.png`}  className="lal" alt="logo" />
+        <img src={`${process.env.PUBLIC_URL}/assets/insta.png`}  className="lal" alt="logo" />
         
     </div>
   );
